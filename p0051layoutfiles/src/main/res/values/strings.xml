@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LayoutFiles</string>
+    <string name="plain_text">some new text</string>
+    <string name="textView1">Text View 1</string>
+    <string name="btn1">Button1</string>
+    <string name="btn2">Button2</string>
+    <string name="btn3">Button3</string>
+    <string name="btn4">Button4</string>
+</resources>
