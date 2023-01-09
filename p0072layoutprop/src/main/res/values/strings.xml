@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LayoutProp</string>
+    <string name="btnText">Button with text</string>
+    <string name="btnB1">B1</string>
+    <string name="btnB2">B2</string>
+    <string name="btnB3">B3</string>
+</resources>
