@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ViewById</string>
+    <string name="newText">New text in TextView</string>
+    <string name="hiWorld">Hello World!</string>
+    <string name="myButton">My Button</string>
+</resources>
