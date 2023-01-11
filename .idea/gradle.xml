@@ -18,6 +18,9 @@
             <option value="$PROJECT_DIR$/p0072layoutprop" />
             <option value="$PROJECT_DIR$/p0081viewbyid" />
             <option value="$PROJECT_DIR$/p0091onclickbuttons" />
+            <option value="$PROJECT_DIR$/p0101listener" />
+            <option value="$PROJECT_DIR$/p0102activitylistener" />
+            <option value="$PROJECT_DIR$/p0103activityxml" />
             <option value="$PROJECT_DIR$/p0180constraintlayoutintro" />
           </set>
         </option>
