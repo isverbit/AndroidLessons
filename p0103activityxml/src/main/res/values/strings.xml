@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ActivityXml</string>
+    <string name="strBtnOk">Pressed OK button</string>
+    <string name="strBtnCancel">Pressed CANCEL button</string>
+</resources>
