@@ -7,6 +7,7 @@
         <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="Embedded JDK" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
@@ -22,6 +23,7 @@
             <option value="$PROJECT_DIR$/p0102activitylistener" />
             <option value="$PROJECT_DIR$/p0103activityxml" />
             <option value="$PROJECT_DIR$/p0111resvalues" />
+            <option value="$PROJECT_DIR$/p0121logandmess" />
             <option value="$PROJECT_DIR$/p0180constraintlayoutintro" />
           </set>
         </option>
