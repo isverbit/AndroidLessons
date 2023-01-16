@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">LogAndMess</string>
+    <string name="strOk">Pressed OK Button</string>
+    <string name="strCancel">Pressed Cancel button</string>
+    <string name="strBtnOk" translatable="false">OK</string>
+    <string name="strBtnCancel" translatable="false">Cancel</string>
+    <string name="strTvOut">Default text</string>
+</resources>

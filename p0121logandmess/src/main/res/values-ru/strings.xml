@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="strOk">Нажата кнопа ОК</string>
+    <string name="strCancel">Нажата кнопка Cancel</string>
+    <string name="strTvOut">Текст по умолчанию</string>
+</resources>
